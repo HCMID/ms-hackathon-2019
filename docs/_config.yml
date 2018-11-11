@@ -18,22 +18,6 @@ author:
 
 
 links:
-  - title:  Preparation
-    url:  /preparation
-  - title: Schedule
-    url:  /schedule
-  - title: Current score!
-    url:  /score
-  - title: Images of the manuscript
-    url:  /thumbs
-  - title: References for editors
-    url:  /references
-  - title: Hackathon home page
-    url:  /
-  - title: Further projects
-    url:  /next
   - title: HC MID club
     url: http://hcmid.github.io/
     external: true
-  - title: Acknowledgments
-    url: gratias
