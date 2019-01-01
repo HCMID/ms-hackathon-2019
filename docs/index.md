@@ -21,7 +21,7 @@ The hackathon is organized by undergraduate students and alumni of the [Manuscri
 
 ## Date, time, location
 
-Saturday, February 2, in Hogan Center at the College of the Holy Cross.
+Saturday, February 2, 9:00 a.m. to 4:00 pm, in Hogan Center at the College of the Holy Cross.
 
 
 ## How to register
