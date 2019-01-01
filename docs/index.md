@@ -24,6 +24,6 @@ The hackathon is organized by undergraduate students and alumni of the [Manuscri
 Saturday, February 2, in Hogan Center at the College of the Holy Cross.
 
 
-## More information
+## How to register
 
-More about the event (including how to register) will be added here soon.
+Use [this Google form](https://goo.gl/forms/bNGXMRCcYQ2vSXbh2) to register.
