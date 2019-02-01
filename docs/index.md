@@ -4,6 +4,10 @@ layout: page
 ---
 
 
+1.  Register and find your [team leaders](teamleaders).
+2.  Verify that one (or more) of your team's computers  is [fully configured](preparation).
+2.  Download a `zip` file with data and templates for editing.
+
 ## What is our manuscripts hackathon?
 
 -   A free, one-day workshop for secondary-school teachers and students.  (Teachers can receive professional development points.)
@@ -12,7 +16,23 @@ layout: page
 -   We'll create a digital edition of a cool illustrated 9th-century Latin  manuscript with a poem about the constellations (Germanicus Caesar's *Aratea*.)
 - You bring a laptop and enthusiasm: we'll provide training and coffee breaks (and occasional examples of rhetorical figures like [zeugma](http://examples.yourdictionary.com/examples-of-zeugma.html)).
 -  You may bring a bag lunch, or purchase lunch at the Kimball Dining Hall for $10.
--  Our work will be submitted to a new publication series, *Holy Cross Digital Diplomatic  Editions*.  If our work is accepted, your name will apear in the list of contributing editors!  (The new series will be published as part of the Holy Cross Library’s digital Institutional Repository, [CrossWorks](http://crossworks.holycross.edu/hc-dde).)
+-  Our work will be submitted to a new publication series, *Holy Cross Digital Diplomatic  Editions*.  If our work is accepted, your name will apear in the list of contributing editors!  (The new series will be published as part of the Holy Cross Library’s digital Institutional Repository.)
+
+
+
+## More information
+
+-   [overview](overview)
+    -   for [teachers](teachers)
+    -   for [students](students)
+-   [how to register](registration)
+-   [schedule](schedule) of the day
+-   follow up: [after the hackathon](followup)
+
+
+##  How to get to Holy Cross
+
+[![Folio 22 recto](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/ecod/bern318imgs/v1/bern318_022r.tif&RGN=0.1041,0.3373,0.5885,0.3833&wID=300&CVT=JPEG)](https://www.holycross.edu/visitors)
 
 
 ## Who's doing this?
