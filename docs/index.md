@@ -4,6 +4,8 @@ layout: page
 ---
 
 
+## Welcome!
+
 1.  Register and find your [team leaders](teamleaders).
 2.  Verify that one (or more) of your team's computers  is [fully configured](preparation).
 2.  Download a `zip` file with data and templates for editing.
@@ -28,12 +30,8 @@ layout: page
 -   [how to register](registration)
 -   [schedule](schedule) of the day
 -   follow up: [after the hackathon](followup)
--   reference:  [a nice electronic lexicon](http://folio2.furman.edu/lewis-short/index.html) (Lewis-Short, from Furman University)
 
 
-##  How to get to Holy Cross
-
-[![Folio 22 recto](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/ecod/bern318imgs/v1/bern318_022r.tif&RGN=0.1041,0.3373,0.5885,0.3833&wID=300&CVT=JPEG)](https://www.holycross.edu/visitors)
 
 
 ## Who's doing this?
