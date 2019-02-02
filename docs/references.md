@@ -14,6 +14,12 @@ We'll use the following URNs in our collaborative editions:
 -   The text of the *Aratea*:  `urn:cts:latinLit:phi0881.phi003.bern88:`
 
 
+## A lexicon
+
+[A nice electronic Lewis-Short lexicon](http://folio2.furman.edu/lewis-short/index.html), one of the main scholarly lexica of Latin (from Furman University).
+
+
+
 ## Using the `bash` shell in your terminal
 
 Commands you'll need:
