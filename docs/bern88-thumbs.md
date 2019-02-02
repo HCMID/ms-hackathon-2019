@@ -1,5 +1,5 @@
 ---
-title: Images
+title: "Bern codex 88: images"
 layout: page
 ---
 
