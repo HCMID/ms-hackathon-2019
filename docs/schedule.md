@@ -7,7 +7,11 @@ layout: page
 
 9:45-10:15:  **Introduction to the hackathon:  Suite B/C**.  Review the day's schedule; how to cite digital images, and create a table of paleogaphic observations.
 
-10:15-10:45:  **break out session**:  each team records paleographic observations, and finds the canonical reference for the first line of their assigned passage.
+10:15-10:45:  **break out session**:  each team records paleographic observations, and finds the canonical reference for the first line of their assigned passage.  Challenge:
+
+-  record paleographic observations for one line
+-  find the canonical line number for your line
+-  validate your paleographic work
 
 10:45-11:15:  **Introduction to editing: Suite B/C**. How to index text to images, and a brief introduction to the eXtensible Markup Language, XML.
 
