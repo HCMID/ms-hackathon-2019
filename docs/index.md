@@ -28,6 +28,7 @@ layout: page
 -   [how to register](registration)
 -   [schedule](schedule) of the day
 -   follow up: [after the hackathon](followup)
+-   reference:  [a nice electronic lexicon](http://folio2.furman.edu/lewis-short/index.html) (Lewis-Short, from Furman University)
 
 
 ##  How to get to Holy Cross
