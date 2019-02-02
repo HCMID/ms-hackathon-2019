@@ -12,7 +12,7 @@ We'll use the following URNs in our collaborative editions:
 -   Collection of images: `urn:cite2:ecod:bern88imgs.v1:`
 -   Pages of the manuscript: `urn:cite2:mid:bern88pages.v1:`
 -   The text of the *Aratea*:  `urn:cts:latinLit:phi0881.phi003.bern88:`
-
+-   The text of scholia:  `urn:cts:hcmidlatin:scholia.aratea.bern88:`
 
 ## A lexicon
 
