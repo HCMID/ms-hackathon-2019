@@ -1,5 +1,5 @@
 ---
-title:  "Team leders"
+title:  "Team leaders"
 layout: page
 ---
 
