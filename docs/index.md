@@ -8,7 +8,7 @@ layout: page
 
 1.  Register and find your [team leaders](teamleaders).
 2.  Verify that one (or more) of your team's computers  is [fully configured](preparation).
-2.  Download a `zip` file with data and templates for editing.
+2.  Download a `zip` file with [data and templates for editing](https://github.com/HCMID/hackathon2019-template).
 
 ## What is our manuscripts hackathon?
 
